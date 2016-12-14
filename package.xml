@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>rosjava_test_msgs</name>
-  <version>0.2.1</version>
+  <version>0.3.0</version>
   <description>
     Test messages for rosjava.
   </description>
